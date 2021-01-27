@@ -7,7 +7,7 @@ Update, Delete) actions using Active Record.
 
 There are different ways to solve this lab so feel free to experiment!
 
-## Instructions
+## Instructions                                                           m
 
 Before starting this lab run `bundle`, to get the proper gem dependencies. If
 your operating system is OSX El Capitan, and you have an issue installing
